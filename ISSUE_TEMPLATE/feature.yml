@@ -1,0 +1,21 @@
+name: Feature
+description: New behaviour or a new module
+labels: ["type:feature"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What
+      description: What should exist when this is done?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why
+      description: The decision or need behind it (link the handbook entry if there is one).
+  - type: textarea
+    id: done
+    attributes:
+      label: Done when
+      description: Tests, admin settings, docs, play-test.
