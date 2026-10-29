@@ -1,3 +1,5 @@
+![Casino Trap](https://raw.githubusercontent.com/Casino-Trap/.github/main/profile/assets/banner-brand-v1.png)
+
 # Casino Trap
 
 A casino platform that runs on play money only: provably fair, fully configurable, with nothing to cash out.
